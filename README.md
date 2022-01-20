@@ -8,7 +8,7 @@
 
 Мой стек: HTML, CSS, JavaScript, React.JS, Express.JS, Git.
 
-###### Связаться со мной:
+#### Связаться со мной:
 * VK: https://vk.com/dasha_flash15
 * FB: https://www.facebook.com/dasha.popova.54584
 * Telegram: https://t.me/dariap15
