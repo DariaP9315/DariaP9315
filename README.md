@@ -11,6 +11,6 @@
 ###### Связаться со мной:
 * VK: https://vk.com/dasha_flash15
 * FB: https://www.facebook.com/dasha.popova.54584
-* Telegram: @dariap15
+* Telegram: https://t.me/dariap15
 
 
